@@ -1,10 +1,53 @@
 body{
-    background-color: rgb(122, 125, 124);
+    background-color: rgb(207, 215, 212);
 }
 
 #main-section{
     border: 1px solid rgb(19, 15, 15);
     width: 450px;
-    height: 300px;
+    height: 340px;
     margin: 150px auto;
+}
+#headline-dis{
+    color: cadetblue;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 120px;
+    padding-right: 120px;
+    
+
+}
+
+#enter{
+    color: cadetblue;
+}
+
+#bill{
+    color: cadetblue;
+}
+
+#in{
+    border: cadetblue;
+    border-radius: 40px;
+    color: cadetblue;
+    font-style:italic:
+}
+
+#disc{
+    color: cadetblue;
+}
+#out{
+    color: cadetblue;
+    border-color: cadetblue;
+}
+#cal{
+    background-color: green;
+    color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 180px;
+    padding-right: 120px;
+}
+#tot{
+    color: cadetblue;
 }
