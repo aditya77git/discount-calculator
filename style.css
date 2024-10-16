@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(122, 125, 124);
+}
+
+#main-section{
+    border: 1px solid rgb(19, 15, 15);
+    width: 450px;
+    height: 300px;
+    margin: 150px auto;
+}
